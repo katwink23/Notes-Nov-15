@@ -13,7 +13,7 @@ int main(){
 
   GetUserNumber();
   GenerateSum(GetUserNumber());
-  DisplaySum();
+  DisplaySum(int topNumber, int sum);
   
 }
 
